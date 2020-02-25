@@ -1,0 +1,146 @@
+.layui-form-item {
+  margin-bottom: 10px;
+}
+
+
+.el-store-price {
+  color: red;
+  font-size: 35px;
+  background: #BEBEBE;
+  height: 40px;
+  font-weight: 900;
+}
+
+
+.el-store-product-img {
+  border:solid 3px blue;
+}
+
+.el-store-product-promise-card {
+ border:solid 1px #F0F0F0; 
+}
+
+.el-store-product-promise-card_context{
+    line-height:50px;
+    vertical-align:middle;
+    text-align:left;
+    float:left;
+}
+
+.el-store-product-promise-line{
+    border-left: solid 2px #ccc;
+    height: 60px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.el-store-product-promise-card-vline{
+    border-left: solid 1px #ccc;
+    height: 60px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.el-store-product-promise-card-img{
+    height: 60px;
+    margin-top: 20px;
+    margin-left:5px;
+    margin-right:10px;
+    float:left;
+}
+
+.el-store-product-promise-card-text{
+    height: 70px;
+    width: 130px;
+    line-height:20px;
+    margin-top: 20px;
+    float:left;
+}
+
+.el-store-product-promise-card-border{
+    border:solid 1px #ccc;
+    height: 90px;
+}
+
+.el-store-product-promise-card-border-vline{
+    border-left: solid 1px #ccc;
+    height: 90px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+
+.el-store-product-comment-border-hline{
+    background-color:#E6E3E3;
+    height:1px;
+}
+
+.el-store-product-comment-signature{
+    line-height:10px;
+    vertical-align:middle;
+    text-align:right;
+    margin-top: 1px;
+}
+
+.el-store-product-comment-date{
+    line-height:10px;
+    vertical-align:middle;
+    text-align:left;
+    margin-top: 1px;
+}
+
+.el-store-product-buy-card-border-address{
+    border:dotted 3px #ccc;
+    height: 90px;
+    width: 250px;
+}
+
+.el-store-product-buy-card-hline{
+    background-color:#E6E3E3;
+    height:1px;
+}
+
+.el-store-product-buy-card-border-footer{
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.el-store-product-buy-order-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.el-store-product-buy-order-table-hline{
+    background-color:#0000FF;
+    height:3px;
+}
+
+.el-store-product-buy-order-table-col1{
+    width: 200px;
+}
+
+.el-store-product-buy-order-table-col2{
+    width: 150px;
+}
+
+.el-store-product-buy-order-table-col3{
+    width: 100px;
+}
+
+.el-store-product-buy-order-table-col4{
+    width: 100px;
+}
+
+.el-store-product-buy-order-table-col5{
+    width: 150px;
+}
+
+.el-store-product-buy-order-table-col6{
+    width: 150px;
+}
+
